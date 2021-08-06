@@ -1,0 +1,4 @@
+name: AbsorptionAPI
+version: ${project.version}
+main: com.ayou.absorptionapi.AbsorptionAPI
+authors: [ Ayou ]
