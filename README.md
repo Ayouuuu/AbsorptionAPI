@@ -1,0 +1,2 @@
+# A SIMPLE MINECRAFT NMS PLUGIN
+Just for the funny :D
